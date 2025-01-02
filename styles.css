@@ -10,7 +10,7 @@ body {
 /* Include custom font */
 @font-face {
     font-family: 'CowboyWould';
-    src: url('/fonts/cowboywould.ttf') format('truetype');
+    src: url('fonts/cowboywould.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
