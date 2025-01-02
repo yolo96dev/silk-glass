@@ -1,1 +1,0 @@
-create a store front page for a small store that will showcase the things they have with sliding or rotating images I can add with things you think neccisary the vibe will be a Tennessee/ browns county Indiana feel were using html, css and js
